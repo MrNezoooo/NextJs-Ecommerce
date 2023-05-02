@@ -1,0 +1,7 @@
+1. create -> npx create-next-app@latest ecommerce
+2. npm run dev
+
+
+
+-----------------------------------
+42:42--52:09
